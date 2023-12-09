@@ -1,3 +1,5 @@
+### THIS IS COMPLETE GARBAGE DONT WASTE THE TIME
+
 # Shortcirtcuit-xt compile the dirty/wrong way, don´t try this at home, seriously!:
 ### Pre requirements:
 
