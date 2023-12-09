@@ -1,6 +1,6 @@
-Shortcirtcuit-xt compile the dirty/wrong way, don´t try this at home, seriously!:
+#Shortcirtcuit-xt compile the dirty/wrong way, don´t try this at home, seriously!:
 Pre requirements:
-cd
+´cd´
 sudo apt install -y build-essential libcairo-dev libxkbcommon-x11-dev libxkbcommon-dev libxcb-cursor-dev libxcb-keysyms1-dev libxcb-util-dev libxrandr-dev libxinerama-dev libxcursor-dev libasound2-dev libjack-jackd2-dev libwebkit2gtk-4.0-37 libwebkit2gtk-4.0-dev libcurl4-openssl-dev 
 #Compile CMAKE
 VER=3.28.0
